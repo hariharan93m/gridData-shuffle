@@ -1,0 +1,20 @@
+{
+  "name": "gridData-shuffle",
+  "version": "1.0.0",
+  "description": "The Grid data shuffle library shuffles the array data based on the interest value provided",
+  "main": "src/gridData-shuffle.js",
+  "license": "(UNLICENSED)",
+  "ignore": [
+    "README.md",
+    "package.json"
+  ],
+  "keywords": [ "array", "shuffle", "array-shuffle", "grid data" ],
+  "authors": [
+    { "name": "Hariharan Muthukrishnan" }
+  ],
+  "homepage": "https://github.com/hariharan93m/gridData-shuffle",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hariharan93m/gridData-shuffle.git"
+  }
+}
